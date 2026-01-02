@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container_about .about .name_logo
+{
+    text-align: center;
+    padding: 20px;
+}
+.container_about .about .name_logo h2
+{
+    color: white;
+}
+.container_about p
+{
+    font-size: 1.5rem;
+    margin: auto;
+    width: 50%;
+    color: rgb(255, 255, 255);
+}
+.container_about .about .name_logo img {
+    width: 100px;
+}

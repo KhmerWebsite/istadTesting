@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container_cart {
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+    font-size: 1rem;
+
+}
+.container_cart .contact_cart{
+    margin: auto;
+    width: 50%;
+    border: 2px solid rgb(154, 154, 154);
+    padding: 20px;
+    border-radius: 10px;    
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+
+    
+}
+.container_cart .contact_cart img{
+    width: 100px;
+}
+.container_cart .contact_cart h2{
+    color: white;
+}
+.container_cart .contact_cart label{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+.container_cart .contact_cart input ,textarea {
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.container_cart .contact_cart .cart .btn{
+    padding: 5px;
+    font-size: 1rem;
+    color: white;
+    background-color:#9980FA ;
+    transition: 1s;
+    cursor: pointer;
+}
+.container_cart .contact_cart .cart .btn:hover{
+    background-color: orange;
+    width: 150px;
+}
+
+
